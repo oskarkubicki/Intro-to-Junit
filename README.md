@@ -1,2 +1,1 @@
-# Lab1_byt
-lab1_byt
+Assignment from PJATK on unit testing in JUnit
